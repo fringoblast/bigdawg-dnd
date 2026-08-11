@@ -1,5 +1,7 @@
 # BigDawg D&D — Live Deploys
 
+**Permanent URL: https://bigdawgdnd-489.netlify.app**
+
 ## 🔄 Current workflow (v1): Git push → auto-deploy (recommended)
 
 The site now deploys from **GitHub**: every `git push` to `main` makes Netlify
