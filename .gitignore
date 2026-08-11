@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-*/
+.netlify/
+.agents/
+skills-lock.json
+*.zip
+*.log
+*.tsbuildinfo
+.DS_Store
+*.local
